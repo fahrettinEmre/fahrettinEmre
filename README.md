@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahrettin Emre Dalga</h1>
 <h3 align="center">A passionate software developer from Istanbul / TURKEY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrettinemre&label=Profile%20views&color=0e75b6&style=flat" alt="fahrettinemre" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrettinemre&label=Profile%20views&color=0e75b6&style=flat" alt="fahrettinemre" /> </p> -->
 
 - 🌱 I’m currently learning now **CI/CD with Jenkins,Container Orchestration with Kubernetes**
 
