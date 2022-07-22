@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahrettin Emre Dalga</h1>
 <h3 align="center">A passionate software developer from Istanbul / TURKEY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrettinemre&label=Profile%20views&color=0e75b6&style=flat" alt="fahrettinemre" /> </p>
-
 - 🌱 I’m currently learning now **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fahrettinEmre](https://github.com/fahrettinEmre)
