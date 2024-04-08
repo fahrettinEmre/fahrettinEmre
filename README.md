@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Specialist</h3>
 
 
-- 📫 How to reach me **fahrettinemredalga@gmail.com**
+- **fahrettinemredalga@gmail.com**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
