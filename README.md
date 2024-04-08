@@ -14,20 +14,6 @@
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/fahrettinemreda1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/fahrettinemreda1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">DevOps LifeCyle with KUBERNETES:</h3>
-<h3 align="left">DevOps LifeCyle:</h3>
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5sGKJVFoKbE0JETso0XnC3SyjHNzkIiy2qlHsw5tFhw&s" alt="DevOps Lifecycle" style="width: 100%; max-height: 50vh; object-fit: cover;" />
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="https://media.licdn.com/dms/image/D4D12AQGvZOVMCXnsKw/article-cover_image-shrink_600_2000/0/1692026023846?e=2147483647&v=beta&t=mjSGIoEp1C_vSE_SjdLbg3CJzQh3Z2D8Ysps5qZMNdc" alt="DevOps Lifecycle" style="width: 100%; max-height: 50vh; object-fit: cover;" />
-    </div>
-</div>
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
